@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project is a simple JavaScript program that simulates a printed menu board for a small restaurant. It demonstrates the use of fundamental JavaScript concepts such as arrays, objects, functions, arrow functions, object destructuring, template literals, array methods (`map`, `filter`, and `reduce`), loops, conditional statements, and the spread operator.
+This project is a simple JavaScript program that display a printed menu board for a small restaurant. It uses some of fundamental JavaScript concepts such as arrays, objects, functions, arrow functions, object destructuring, template literals, array methods (`map`, `filter`, and `reduce`), loops, conditional statements, and the spread operator.
 
 The program formats menu items, counts spicy dishes, calculates the total cost of ordering one of every dish, and creates an updated menu by adding a new item.
 
